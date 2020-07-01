@@ -1,1 +1,2 @@
-# budget_calculator[ https://hardik501.github.io/budget_calculator/]
+# budget_calculator
+[click here](https://hardik501.github.io/budget_calculator/)
